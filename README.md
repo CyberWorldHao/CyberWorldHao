@@ -65,7 +65,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-original.svg" title="Quasar" alt="Quasar" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap Icons" alt="Bootstrap Icons" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material-UI" alt="Material-UI" width="40" height="40"/>&nbsp;
@@ -80,7 +81,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite.js" alt="Vite.js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 <img src="https://img.shields.io/badge/-538dd6?logo=fontawesome&logoColor=white" title="Font Awesome" alt="Font Awesome" width="40" height="40"/>&nbsp;
-<img src="https://img.shields.io/badge/-000?logo=shadcnui&logoColor=white" title="Shadcn" alt="Shadcn" width="40" height="40"/>&nbsp;
 <img src="https://img.shields.io/badge/-FF0066?logo=svgdotjs&logoColor=white" title="SVG.js" alt="SVG.js" width="42" height="40"/>&nbsp;
 
 ### Programming Languages  
