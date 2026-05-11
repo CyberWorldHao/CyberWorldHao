@@ -83,7 +83,7 @@
     </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>
     </td><td><img src="https://cdn.simpleicons.org/dbeaver/382923" title="DBeaver" alt="DBeaver" width="40" height="40"/>
     </td><td><img src="https://custom-icon-badges.demolab.com/badge/-%23FF9900.svg?logo=aws-lambda&logoColor=white" title="AWS Lambda" alt="AWS Lambda" width="40" height="40"/>
-    </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Golang-migrate" alt="Golang-migrate" width="40" height="40"/>
+    </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Golang Migrate" alt="Golang Migrate" width="40" height="40"/>
     </td>
   </tr>
 </table>
@@ -101,8 +101,8 @@
     </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
     </td><td><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>
     </td>
-  </tr><tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
+  </tr><tr>
     </td><td><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material-UI" alt="Material-UI" width="40" height="40"/>
     </td><td><img src="https://img.shields.io/badge/-000?logo=shadcnui&logoColor=white" title="Shadcn" alt="Shadcn" width="40" height="40"/>
     </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" title="React Bootstrap" alt="React Bootstrap" width="40" height="40"/>
@@ -110,18 +110,15 @@
     </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="40" height="40"/>
     </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" title="JSON" alt="JSON" width="40" height="40"/>
     </td>
-  </tr><tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" title="Devicon" alt="Devicon" width="40" height="40"/>
     </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" title="Ionic" alt="Ionic" width="40" height="40"/>
+  </tr><tr>
     </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
     </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite.js" alt="Vite.js" width="40" height="40"/>
     </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>
     </td><td><img src="https://img.shields.io/badge/-538dd6?logo=fontawesome&logoColor=white" title="Font Awesome" alt="Font Awesome" width="40" height="40"/>
     </td><td><img src="https://img.shields.io/badge/-FF0066?logo=svgdotjs&logoColor=white" title="SVG.js" alt="SVG.js" width="42" height="40"/>
-    </td>
-  </tr><tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-    </td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
   </tr>
 </table>
 
@@ -140,9 +137,9 @@
     </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
   </tr><tr>
     </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" title="Visual Basic" alt="Visual Basic" width="40" height="40"/>
-    </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>
-    </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>    
+    </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>    
     </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>
+    </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
     </td>
   </tr>
 </table>
